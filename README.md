@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - What was your motivation?
 The motivation for this project was to have a readily accessible application to study coding
 - Why did you build this project? I built this project because I did not have what  I needed in order to study coding
@@ -11,15 +9,6 @@ The motivation for this project was to have a readily accessible application to 
 It solves the problem of not having an easy to study coding
 - What did you learn?
 I learned a lot about the process of coding, the languages, how to save changes, and deploy them
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
